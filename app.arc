@@ -2,7 +2,7 @@
 begin-app
 
 @http
-get /
+get /api
 
 @tables
 data
